@@ -3,6 +3,9 @@ AIにコーディングをさせる今の世の中であえてキーボードで
 設計はバリバリAIに助言をもらってます。
 
 cd C:\Java_practice\MakeStudentManagementSystem
+
 git add .
+
 git commit -m "add: Service layer"
+
 git push
